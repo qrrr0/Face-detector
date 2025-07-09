@@ -1,0 +1,1 @@
+ This is a code that u can learn an ai algorthim from it, this algorothim is used in order to detect the face if it is genrated or not, Thus, I feed it with lots of real and fake images, so, just plant ur photo and it will detect automaticly.
